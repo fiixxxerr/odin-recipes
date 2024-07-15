@@ -1,0 +1,18 @@
+.page-title {
+    font-weight:bold;
+    color: rgb(53, 53, 241);
+    font-size:40px;
+}
+
+h2 {
+    font-weight:bold;
+    color:rgb(116, 2, 2);
+    font-size:30px;
+}
+
+.description {
+    font-family:'Courier New', Courier, sans-serif;
+    color:white;
+    background-color:black;
+    font-size:20px;
+}
