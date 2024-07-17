@@ -1,7 +1,13 @@
 .page-title {
     font-weight:bold;
-    color: rgb(53, 53, 241);
+    color: rgb(50, 247, 43);
     font-size:40px;
+    text-align: center;
+    background-color:rgb(1, 1, 2);
+    margin:40px 20px;
+    border: solid 10px rgb(50, 247, 43);
+    padding: 20px 20px;
+    display:block;
 }
 
 h2 {
@@ -15,4 +21,18 @@ h2 {
     color:white;
     background-color:black;
     font-size:20px;
+}
+
+.recipe {
+    display: block;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    background-color:darkgrey;
+    margin: 20px 300px;
+    border: solid black 4px;
+    padding: 30px 40px;
+    text-align: center;
+
+
 }
